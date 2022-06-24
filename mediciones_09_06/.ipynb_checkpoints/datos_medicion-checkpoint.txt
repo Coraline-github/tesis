@@ -1,0 +1,5 @@
+altura 4 = 84cm
+altura 3 = 65cm
+altura 2 = 44cm
+altura 1 = 34cm (torcida)
+altura 1 = 35cm

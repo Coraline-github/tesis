@@ -1,0 +1,11 @@
+Mediciones hechas para diferentes grados a una altura fija 1 (4algocm). 
+Los grados positivos son hacia el centro del patio.
+
+tita1 = 5°
+tita2 = 10°
+tita3 = 15° 
+tita4 = 20°
+tita5 = 25°
+tita6 = 30°
+tita7 = 40°
+tita8 = 50°
