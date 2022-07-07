@@ -1,0 +1,41 @@
+parte experimental:
+-Construimos un nuevo arco para medir en el IAFE que fuera:
+    +Enterrable
+    +Mas robusto
+    +con 4 alturas fijas de medicion
+    +sistema que permite la rotacion del radar para tener angulo de incidencia > 0
+
+-Medimos con otras chapas:
+    +27/05 la oxidada que no tiene continuidad
+    +09/06 una mejor chapa con continuidad aunque mas chica
+
+-Realizamos mediciones:
+    +Perfil de humedad con el hydra para caracterizar el suelo del IAFE (dos huecos)
+    +medicion de calibracion en el patio interno del iafe con el arco viejo. medimos para tierra seca y despues mojada.
+    +mediciones a incidencia normal con el arco nuevo en el patio del iafe (27/05 y 09/06) para 4 alturas
+    +para la medicion del 09/06 agregamos mediciones con angulo de incidencia tita diferente a 0
+    +para la medicion del 09/06 agregamos mediciones con la placa torcida para ver si afecta la polarizacion
+
+    
+Analisis de datos:
+-Ajustamos datos para 27/05 y 09/06 usando en metodo de "gradilla" de humedades con el modelo de hallikainen
+    (sinceramente a mi criterio da todo bastante mal)
+
+    obs: la medicion que hicimos de S1 para 45cm en 09/06 tiene una oscilacion RARISIMA en la campana
+
+- Estudiamos el decaimiento de las señales en funcion de la distancia como hicimos en labo 6
+    (decaen como 1/r como esperabamos)
+
+-comparamos las mediciones entre el 27/05 y el 09/06 para ver cuanto afecto a las mediciones el usar una chapa sin continuidad 
+    (observamos q hay diferencias en la medicion debido a la humedad de la tierra)
+    -->Se pueden usar las mediciones S2 de esas dos fechas como una tierra seca y otra mojada? o es muy chanta??
+
+- Comparamos las mediciones de la tesis con lo que medimos con el cajon para labo 7 en BB Y BP
+    la amplitud en BB de la señal de la tesis es siempre mayor a la de labo 7 asi que podemos asumir que perdimos potencia
+    por la interferencia del rebote con las paredes (quisas)
+
+-vimos como varia la señal reflejada cuando se modifica el angulo de incidencia
+    por algun motivo la incidencia normal tiene menos potencia que las incidencias con 5°
+    por lo que vemos que es super importante que la antena este bien ortogonal al piso al medir
+    sino se modifica mucho la amplitud de la señal
+
