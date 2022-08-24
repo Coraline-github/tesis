@@ -1,4 +1,4 @@
-Mediciones hechas para diferentes grados a una altura fija 1 (4algocm). 
+Mediciones hechas para diferentes grados a una altura fija 1 (44cm). 
 Los grados positivos son hacia el centro del patio.
 
 tita1 = 5°

@@ -1,3 +1,15 @@
-medicion 1_a = chapa y antena alineadas horizontal - vertical
+Alturas:
+1--> 35.3cm
+2--> 46.7cm
+3--> 65cm
+4--> 0.30cm
+
+medicion 1 = chapa y antena alineadas horizontal - vertical
+
+
+
+EXTRAS 
+mediciones modificadas hechas a altura 1
+
 medicion 1_b = chapa y antena solidarias a la tierra
-medicion 1_c = idem 1_b pero chapa no conductora
+medicion 1_c = idem 1_b pero chapa no conductora (chapa azul)

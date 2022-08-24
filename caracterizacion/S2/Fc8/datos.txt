@@ -1,0 +1,7 @@
+Mediciones hechas con el travesaño a poleas
+
+alturas:
+1--> 35.3cm
+2--> 48.3cm
+3--> 68.5cm
+4--> 85.5cm
