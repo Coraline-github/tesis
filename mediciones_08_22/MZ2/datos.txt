@@ -1,0 +1,7 @@
+altura radar-tierra 1
+1-->33.5cm
+2-->43.5cm
+
+angulo de incidencia
+tita1--> 10°
+tita2--> 20°

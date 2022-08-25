@@ -1,0 +1,9 @@
+en esta medicion analizamos el suelo seco y luego lo mojamos
+
+las mediciones son:
+S1A-->placa conductora (chapa azul)
+S1B-->placa conductora (chapa azul con chapa fina arriba)
+S2-->suelo seco
+Z2-->angulos con suelo seco
+M2-->suelo mojado
+MZ2-->angulos con suelo mojado

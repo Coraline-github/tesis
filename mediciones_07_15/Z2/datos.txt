@@ -1,0 +1,6 @@
+mediciones para altura 1 (35.3cm)
+
+tita1--> 10°
+tita2--> 20°
+tita3--> 30°
+tita4--> 40°
