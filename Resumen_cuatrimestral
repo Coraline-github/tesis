@@ -1,34 +1,39 @@
+parte teorica:
+- Repasamos conceptos de propagacion de ondas electromagneticas en medios dieléctricos de interfaz plana
+- Hallamos un modelo para suelo segun su composicion en el rango de frecuencias estudiado y armamos un script de python para aplicarlo. 
+
 parte experimental:
 -Construimos un nuevo arco para medir en el IAFE que fuera:
     +Enterrable
     +Mas robusto
     +con 4 alturas fijas de medicion
-    +sistema que permite la rotacion del radar para tener angulo de incidencia > 0
+    +sistema que permite la rotacion del radar para tener angulo de incidencia > 0°
 
 -Medimos con otras chapas:
-    +27/05 la oxidada que no tiene continuidad
+    +27/05 la oxidada (azul) que no tiene continuidad (+ chapa vieja de labo 6y7)
     +09/06 una mejor chapa con continuidad aunque mas chica
+    +15/07 ambas chapas
+    +22/08 de nuevo con ambas chapas	
 
 -Realizamos mediciones:
     +Perfil de humedad con el hydra para caracterizar el suelo del IAFE (dos huecos)
     +medicion de calibracion en el patio interno del iafe con el arco viejo. medimos para tierra seca y despues mojada.
-    +mediciones a incidencia normal con el arco nuevo en el patio del iafe (27/05 y 09/06) para 4 alturas
-    +para la medicion del 09/06 agregamos mediciones con angulo de incidencia tita diferente a 0
+    +mediciones a incidencia normal con el arco nuevo en el patio del iafe para 4 alturas (27/05 y 09/06), 3 alturas (15/07) y 2 alturas (22/08)
+    +para la medicion del 09/06 en adelante agregamos mediciones con angulo de incidencia tita diferente a 0
     +para la medicion del 09/06 agregamos mediciones con la placa torcida para ver si afecta la polarizacion
+    +para la medicion del 22/08 agregamos mediciones con el suelo humedecido
+
 
     
 Analisis de datos:
--Ajustamos datos para 27/05 y 09/06 usando en metodo de "gradilla" de humedades con el modelo de hallikainen
-    (sinceramente a mi criterio da todo bastante mal)
+-(agregamos esto?) Hicimos un script de python para el procesado de las señales 
 
-    obs: la medicion que hicimos de S1 para 45cm en 09/06 tiene una oscilacion RARISIMA en la campana
+- Ajustamos datos usando en metodo de "gradilla" de humedades con el modelo de hallikainen (S2teo) y lo comparamos con la medicion (S2med)
 
 - Estudiamos el decaimiento de las señales en funcion de la distancia como hicimos en labo 6
     (decaen como 1/r como esperabamos)
 
--comparamos las mediciones entre el 27/05 y el 09/06 para ver cuanto afecto a las mediciones el usar una chapa sin continuidad 
-    (observamos q hay diferencias en la medicion debido a la humedad de la tierra)
-    -->Se pueden usar las mediciones S2 de esas dos fechas como una tierra seca y otra mojada? o es muy chanta??
+- Comparamos las mediciones entre ellas para ver el comportamiento de las chapas (S1)
 
 - Comparamos las mediciones de la tesis con lo que medimos con el cajon para labo 7 en BB Y BP
     la amplitud en BB de la señal de la tesis es siempre mayor a la de labo 7 asi que podemos asumir que perdimos potencia
@@ -39,12 +44,15 @@ Analisis de datos:
     por lo que vemos que es super importante que la antena este bien ortogonal al piso al medir
     sino se modifica mucho la amplitud de la señal
 
+-vimos como varia la señal al humedecer la tierra
+
+-hicimos perfiles de humedad con las mediciones del hydra
+
+(obs: la medicion que hicimos de S1 para 45cm en 09/06 tiene una oscilacion RARISIMA en la campana)
+
+--------------
+parte teorica nueva:
+- Dejamos el modelo simple de interfases planas para aplicar un modelo nuevo que tenga en cuenta la rugosidad de la superficie (Aproximacion de Kirchhoff)
 
 
-
-Tarea:
-grafico 4 señales S1 de mayo y de junio
-IDEM CON LAS 4 SEÑALES s2 DE MAYO Y junio
-
-volvemos a medir contra la misma chapa varias veces graficando en el medio para ver que d elo que tenga que dar
 
