@@ -1,0 +1,11 @@
+-------------------
+Datos para una capa
+-------------------
+
+long. onda portadora: 3.43cm
+Skin Depth (Mariano) a Fc: 1.96cm
+
+
+long. onda max: 4.14cm
+Skin Depth (Mariano) a long. onda max: 2.37cm
+
