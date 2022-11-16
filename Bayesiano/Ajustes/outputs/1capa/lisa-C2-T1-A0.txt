@@ -19,16 +19,16 @@ Corro bayes
 Ruido :  0.0225
 Muestras :  5000
 
-Tiempo insumido - Inf. Bayesiana: 118.79 seg (1.98 min)
+Tiempo insumido - Inf. Bayesiana: 46.95 seg (0.78 min)
 
 Graficando con un solo dielectrico ...
 input ep1_r:  11.496
-output ep1_r:  8.225 +/- 2.067
+output ep1_r:  8.181 +/- 2.088
 
 input ep1_i:  3.028
-output ep1_i:  5.672 +/- 1.313
+output ep1_i:  5.683 +/- 1.301
 
-Tiempo insumido - Graficos: 1.31 seg (0.02 min)
-Tiempo insumido - TOTAL: 120.1 seg (2.0 min)
+Tiempo insumido - Graficos: 1.21 seg (0.02 min)
+Tiempo insumido - TOTAL: 48.16 seg (0.8 min)
 
 

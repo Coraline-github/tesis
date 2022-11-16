@@ -12,33 +12,33 @@ Altura: 1
 Corro bayes
 -------------------
 Ruido :  0.025
-Muestras :  50
+Muestras :  5000
 
-Tiempo insumido - Inf. Bayesiana: 497.74 seg (8.3 min)
+Tiempo insumido - Inf. Bayesiana: 143.79 seg (2.4 min)
 
 Graficando con un solo dielectrico ...
 input ep1_r:  11.496
-output ep1_r:  16.406 +/- 1.587
+output ep1_r:  16.99 +/- 1.42
 
 input ep1_i:  3 3
-output ep1_i:  3.741 +/- 1.015
+output ep1_i:  4.002 +/- 1.158
 
 input ep2_r:  13.894
-output ep2_r:  19.079 +/- 0.215
+output ep2_r:  18.899 +/- 0.142
 
 input ep2_i:  4.12
-output ep2_i:  5.365 +/- 1.198
+output ep2_i:  5.502 +/- 1.434
 
 input d:  0.13
-output d:  0.046 +/- 0.022
+output d:  0.055 +/- 0.026
 
 input s1: ---
-output s1:  0.00126 +/- 0.000436
+output s1:  0.00134 +/- 0.000466
 
 input s2: ---
-output s2:  0.00065 +/- 0.000411
+output s2:  0.00067 +/- 0.000468
 
-Tiempo insumido - Graficos: 1982.55 seg (33.04 min)
-Tiempo insumido - TOTAL: 505.03 seg (8.42 min)
+Tiempo insumido - Graficos: 161.91 seg (2.7 min)
+Tiempo insumido - TOTAL: 152.3 seg (2.54 min)
 
 
