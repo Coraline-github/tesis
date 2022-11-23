@@ -1,0 +1,34 @@
+-------------------
+Incidencia en un dielectrico sin rugosidad
+-------------------
+
+Datos:
+Dia de calibracion: 07_15
+Dia de target: 08_22
+Altura: 1
+
+long. onda portadora: 3.43cm
+long. onda max: 4.14cm
+Skin Depth a Fc8) : 1.27cm
+Skin Depth a long. onda max: 1.53cm
+
+
+-------------------
+Corro bayes
+-------------------
+Ruido :  0.0225
+Muestras :  5000
+
+Tiempo insumido - Inf. Bayesiana: 52.5 seg (0.87 min)
+
+Graficando con un solo dielectrico ...
+input ep1_r:  7.6
+output ep1_r:  4.044 +/- 0.041
+
+input ep1_i:  4.36
+output ep1_i:  3.022 +/- 0.021
+
+Tiempo insumido - Graficos: 1.61 seg (0.03 min)
+Tiempo insumido - TOTAL: 54.11 seg (0.9 min)
+
+
