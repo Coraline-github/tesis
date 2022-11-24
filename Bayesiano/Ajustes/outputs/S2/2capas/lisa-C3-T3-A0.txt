@@ -1,0 +1,38 @@
+-------------------
+Incidencia en un dielectrico con 2 capas sin rugosidad
+-------------------
+
+Datos:
+Dia de calibracion: 08_22
+Dia de target: 08_22
+Altura: 0
+
+
+-------------------
+Corro bayes
+-------------------
+Ruido :  0.0225
+Muestras :  5000
+
+Tiempo insumido - Inf. Bayesiana: 110.84 seg (1.85 min)
+
+Graficando con un solo dielectrico ...
+input ep1_r:  7.6
+output ep1_r:  9.08 +/- 2.679
+
+input ep1_i:  4 3
+output ep1_i:  6.002 +/- 1.159
+
+input ep2_r:  7.54
+output ep2_r:  13.522 +/- 0.021
+
+input ep2_i:  3.94
+output ep2_i:  8.497 +/- 1.438
+
+input d:  0.09
+output d:  0.005 +/- 0.003
+
+Tiempo insumido - Graficos: 4.61 seg (0.08 min)
+Tiempo insumido - TOTAL: 115.45 seg (1.92 min)
+
+

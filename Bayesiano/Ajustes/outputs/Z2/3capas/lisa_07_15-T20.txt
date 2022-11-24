@@ -1,0 +1,47 @@
+-------------------
+Incidencia en un dielectrico con 3 capas sin rugosidad
+-------------------
+
+Datos:
+Dia de medicion: 07_15
+angulo: 20
+Altura: 0
+
+
+-------------------
+Corro bayes
+-------------------
+Ruido :  0.025
+Muestras :  2500
+
+Tiempo insumido - Inf. Bayesiana: 131.33 seg (2.19 min)
+
+Graficando con un solo dielectrico ...
+input ep1_r:  8.129
+output ep1_r:  19.001 +/- 1.724
+
+input ep1_i:  4 3
+output ep1_i:  3.998 +/- 1.16
+
+input ep2_r:  10.302
+output ep2_r:  20.775 +/- 4.141
+
+input ep2_i:  5.12
+output ep2_i:  6.004 +/- 1.154
+
+input ep3_r:  11.268
+output ep3_r:  23.841 +/- 0.038
+
+input ep3_i:  5.695
+output ep3_i:  4.144 +/- 0.135
+
+input d1:  0.02
+output d1:  0.025 +/- 0.009
+
+input d2:  0.07
+output d2:  0.105 +/- 0.026
+
+Tiempo insumido - Graficos: 3.65 seg (0.06 min)
+Tiempo insumido - TOTAL: 134.98 seg (2.25 min)
+
+

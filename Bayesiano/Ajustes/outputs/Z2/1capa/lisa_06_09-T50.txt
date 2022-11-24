@@ -1,0 +1,28 @@
+-------------------
+Incidencia en un dielectrico sin rugosidad
+-------------------
+
+Datos:
+Dia de medicion: 06_09
+angulo: 50
+
+
+-------------------
+Corro bayes
+-------------------
+Ruido :  0.0225
+Muestras :  5000
+
+Tiempo insumido - Inf. Bayesiana: 43.87 seg (0.73 min)
+
+Graficando con un solo dielectrico ...
+input ep1_r:  11.496
+output ep1_r:  4.191 +/- 0.16
+
+input ep1_i:  3.028
+output ep1_i:  3.047 +/- 0.044
+
+Tiempo insumido - Graficos: 2.78 seg (0.05 min)
+Tiempo insumido - TOTAL: 46.65 seg (0.78 min)
+
+
