@@ -1,0 +1,23 @@
+-------------------
+Incidencia en un dielectrico sin rugosidad sobre conductor ideal
+-------------------
+
+-------------------
+Corro bayes
+-------------------
+Ruido :  0.0225
+Muestras :  50
+
+Tiempo insumido - Inf. Bayesiana: 5.34 seg (0.09 min)
+
+Valores obtenidos:
+input ep1_r:  10.5544
+output ep1_r:  5.122 +/- 0.845
+
+input ep1_i:  1.885
+output ep1_i:  3.731 +/- 0.552
+
+Tiempo insumido - Graficos: 0.63 seg (0.01 min)
+Tiempo insumido - TOTAL: 5.97 seg (0.1 min)
+
+
