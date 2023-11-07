@@ -28,7 +28,7 @@ parte experimental:
 
     
 Analisis de datos:
--(agregamos esto?) Hicimos un script de python para el procesado de las señales 
+- Hicimos un script de python para el procesado de las señales 
 
 - Ajustamos datos usando en metodo de "gradilla" de humedades con el modelo de hallikainen (S2teo) y lo comparamos con la medicion (S2med)
 
@@ -41,14 +41,14 @@ Analisis de datos:
     la amplitud en BB de la señal de la tesis es siempre mayor a la de labo 7 asi que podemos asumir que perdimos potencia
     por la interferencia del rebote con las paredes (quisas)
 
--vimos como varia la señal reflejada cuando se modifica el angulo de incidencia
+- vimos como varia la señal reflejada cuando se modifica el angulo de incidencia
     por algun motivo la incidencia normal tiene menos potencia que las incidencias con 5°
     por lo que vemos que es super importante que la antena este bien ortogonal al piso al medir
     sino se modifica mucho la amplitud de la señal
 
--vimos como varia la señal al humedecer la tierra
+- vimos como varia la señal al humedecer la tierra
 
--hicimos perfiles de humedad con las mediciones del hydra
+- hicimos perfiles de humedad con las mediciones del hydra
 
 (obs: la medicion que hicimos de S1 para 45cm en 09/06 tiene una oscilacion RARISIMA en la campana)
 
